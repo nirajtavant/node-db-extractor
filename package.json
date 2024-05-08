@@ -1,0 +1,29 @@
+{
+  "name": "node-lambda-app",
+  "version": "1.0.0",
+  "description": "Lambda function for data comparison in old/new db",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajtavant/node-lambda-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirajtavant/node-lambda-app/issues"
+  },
+  "homepage": "https://github.com/nirajtavant/node-lambda-app#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1615.0",
+    "dotenv": "^16.4.5",
+    "pg": "^8.11.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

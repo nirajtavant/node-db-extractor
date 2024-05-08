@@ -1,0 +1,28 @@
+new=# SELECT * FROM accounts;
+                  id                  |      name       |              email               | favorite_flavor 
+--------------------------------------+-----------------+----------------------------------+-----------------
+ 80f77f57-14f4-4a79-bb02-8769f04fef05 | Nathanal        | Nathanal4324@aim.chat            | huckleberry
+ 617c9937-f1bb-45c8-a382-bebd2d67321e | Leshaun         | Leshaun4325@gmail.com            | raspberry
+ fcfc77d2-30c4-4809-8a32-039df07def34 | Blane           | Blane4327@yahoo.com              | blueberry
+ efd9fd1b-673c-409a-a212-4340548f0710 | Satia           | Satia4328@hotmail.com            | cookie crisp
+ c3f6a088-5331-4704-978a-fed9831d1eda | Sherea          | Sherea4329@hotmail.com           | blueberry
+ 09baffa0-dc1f-4ce8-80ab-31d8bdf8e268 | Tarron          | Tarron4331@comcast.net           | blueberry
+ f0c760d4-f393-4f24-bfbc-5436b891f11c | Tarl            | Tarl4332@gmail.com               | waffle
+ 7258bc36-3f2f-4555-941d-0b1c5a10ed40 | Flannery        | Flannery4333@hotmail.com         | waffle
+ df1e3b81-441e-4a5e-9557-e34cfbd30429 | Kaj             | Kaj4334@yahoo.com                | waffle
+ 503f4be3-6e52-42ec-97b4-274a3b238518 | Alexzandria     | Alexzandria4339@comcast.net      | blueberry
+ 4d91995c-b2ef-4599-886e-2e98a1659ed1 | Gayla           | Gayla4340@yahoo.com              | caperberry
+ a4663356-391a-4039-ac9c-cf92af1c5e5a | Blane           | Blane4341@aim.chat               | honey comb
+ f528fdf0-4fdd-4d79-9a9c-4a9d9efdb906 | Damone          | Damone4342@hotmail.com           | raspberry
+ 3caec3f9-55ad-4715-86cb-195a9f19e9b5 | Blandon         | Blandon4343@aim.chat             | pikachu
+ 8fa56583-2009-4be4-b061-f1abec223327 | Mikeisha        | Mikeisha4344@yahoo.com           | pikachu
+ b4236f28-d2fd-4cd5-bd75-3bf0d818f331 | Jillmarie       | Jillmarie4346@comcast.net        | honey comb
+ 95bbfa9e-d729-4006-9750-7e50d64ee1da | Fallyn          | Fallyn4347@gmail.com             | lingonberry
+ 68a94ee9-f5c3-4f0b-8e77-493a265bf35c | Debby           | Debby4348@hotmail.com            | honey comb
+ 3dfa54dd-5d6f-4f1f-b09e-3816763f31bc | Stephana        | Stephana4349@comcast.net         | pikachu
+ f35799c5-f45d-4d01-a1fd-4e75a9f19023 | Donovin         | Donovin4350@aim.chat             | caperberry
+ 1f87acd9-49ef-4723-ad4d-26e8b27fa37e | Sindi           | Sindi4351@aim.chat               | lingonberry
+ 70964385-38d4-4fbf-acdd-358efa91f0f7 | Nik             | Nik4352@hotmail.com              | cookie crisp
+ adf020dc-c73a-4761-81c1-6bafe5cdd58a | Vinton          | Serafin4353@aim.chat             | raspberry
+ 5d2a54f4-a41f-4dd6-8ac7-7da5424c0f7f | Ellyse          | Ellyse4355@yahoo.com             | blueberry
+--More--
